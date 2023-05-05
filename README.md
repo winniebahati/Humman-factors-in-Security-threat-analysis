@@ -24,11 +24,11 @@ This is the root directory of the repository. The directory is structured as fol
     template-replication-package
      .
      |
-     |--- src/                             Source code used in the thesis / paper
+     |--- src/                             Source code used 
      |
      |--- documentation/                   Further structured documentation of the replication package content
      |
-     |--- data/                            Data used in the thesis / paper 
+     |--- data/                            Data used 
             |
             |--- additional_subfolder/     Subfolders should be further nested to increase readability                 
   
