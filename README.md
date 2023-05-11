@@ -30,10 +30,10 @@ Here a documentation on how to use the replication material should be provided.
 
 To execute the python file:
 
-First dowload the "sample participants responses" file. The format of the csv file is the same as the one used during this data analysis.
-Add the csv file to your Google drive
+First dowload the "sample participants responses" file. The format of the xlsx file is the same as the one used during this data analysis.
+Add the xlsx file to your Google drive
 Open the .ipynb file and follow the specified steps.
-Change the drive directory and the file name of the downloaded csv sheet
+Change the drive directory and the file name of the downloaded xlsx sheet
 All relevant python packages have already been pre-defined where necessary
 
 
