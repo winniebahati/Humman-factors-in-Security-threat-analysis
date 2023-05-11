@@ -1,8 +1,11 @@
-Effects of Human Factors in Security Threat Analysis
+## Effects of Human Factors in Security Threat Analysis
 This repository contains necessary materials used to conduct an experiement on the effect of human factors in security threat analysis.
 
-General overview
-For the execution of this experiment, sevral steps were followed. First, we prepared a questionnaire all textual materials. This included choosing relevant but comparable scenarios. To this end, we presented a kubernetes and a GitHub scenario for the first and confirming experiments. To further make the student's background knowledge comparable , for the subjects relevant to this study (security and the domains of the selected scenarios), we developed training videos. From the scenarios, we compiled 10 threats, each containing a unique thretad ID, threat description, assumption, affected components, and an associated STRIDE threat type. 5 of the threats were real and 5 were fabricated. Additional reading materials, selcted book chapters on STRIDE were also made availabe.
+## General overview
+For the execution of this experiment, sevral steps were followed. First, we prepared a questionnaire 
+
+
+all textual materials. This included choosing relevant but comparable scenarios. To this end, we presented a kubernetes and a GitHub scenario for the first and confirming experiments. To further make the student's background knowledge comparable , for the subjects relevant to this study (security and the domains of the selected scenarios), we developed training videos. From the scenarios, we compiled 10 threats, each containing a unique thretad ID, threat description, assumption, affected components, and an associated STRIDE threat type. 5 of the threats were real and 5 were fabricated. Additional reading materials, selcted book chapters on STRIDE were also made availabe.
 
 To measure the role of the data flow diagram in validating threats, we proposed comparing it to a process diagram, a sequence diagram. To this end, we defined two treatment group. Intervention received both the DFD and sequence diagram while control group received only a sequence diagram.
 
