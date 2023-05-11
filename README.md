@@ -2,7 +2,7 @@
 This repository contains necessary materials used to conduct an experiement on the effect of human factors in security threat analysis.
 
 ## General overview
-For the execution of this experiment, sevral steps were followed. First, we adopted the case scenario from the ACM ethics Malware Disruption case. This case can be found here https://ethics.acm.org/code-of-ethics/using-the-code/case-malware-disruption/ . We changed 
+For the execution of this experiment, sevral steps were followed. First, we adopted the case scenario from the ACM ethics Malware Disruption case. This case can be found here https://ethics.acm.org/code-of-ethics/using-the-code/case-malware-disruption/ . The scenario presented to the participants was inspired by the ACM ethics Malware Disruption case. 
 Second, we defined the number of dimensions to be considered in the vignette persona. Each fictitious persona or vignette has 2 dimensions: 𝑁ame and 𝑆𝑒𝑛𝑖𝑜𝑟𝑖𝑡𝑦 (i.e., position at a large security consulting firm). The vignette were used to offer possible security mitigation to the threat presented in the case scenario.
 Third, all participants reviewed the same security threat scenario, however, the analyst persona assigned to them were randomized.
 
