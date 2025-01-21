@@ -21,7 +21,24 @@ python notebook
 
 
 ## How to cite us
- To be updated.
+The scientific article describing design, execution, and main results of this study is available here. If this study is helping your research, consider to cite it is as follows, thanks!
+
+@article{mbaka2024role,
+
+title={Role of Gender in the Evaluation of Security Decisions},
+
+author={Mbaka, Winnie and Tuma, Katja},
+
+journal={IEEE Security \& Privacy},
+
+volume={},
+
+pages={38-48},
+
+year={2024},
+
+publisher={IEEE} 
+}
 
 
 ## Getting started
